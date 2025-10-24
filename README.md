@@ -8,15 +8,31 @@ A dynamic and fully featured **Learning Management App** built with **Flutter & 
 
 ## ✨ Key Features
 
-- 🎓 **Role Based Access** – Supports separate flows for Students and Instructors.  
-- 🗂 **Course Creation & Management** – Instructors can add/update courses, modules, upload videos and resources.  
-- 📖 **Lesson Viewer** – Students can watch video lessons or read text content at their own pace.  
-- 📊 **Progress Tracking** – Visual indicators of completed lessons, quiz scores and certificate readiness.  
-- 🧪 **Quizzes & Assessments** – Built-in quizzes after modules to reinforce learning.  
-- 📥 **Download / Offline Mode** – Users can save lessons for offline access (where configured).  
-- 🎨 **Modern UI / Theme Support** – Material Design, dark & light themes, smooth animations.  
-- 🔐 **Authentication & Backend Integration** – Using Firebase Auth / Firestore (or custom API) for secure user management and course data.  
+🎓 Role Based Access – Separate, optimized flows for Students and Instructors.
 
+🗂 Course Creation & Management – Instructors can create, update, and organize courses, modules, videos, and learning resources.
+
+🔍 Course Discovery – Explore and search courses by subject, category, or instructor, with smart filters.
+
+📖 Lesson Viewer – Students can stream videos, read text/PDF lessons, and learn at their own pace.
+
+📊 Progress Tracking – Interactive dashboards show completed lessons, quiz results, and certificate progress.
+
+🧪 Quizzes & Assessments – Built-in module-wise quizzes to reinforce learning and evaluate understanding.
+
+📜 Certificates – Auto-generated completion certificates after finishing a course.
+
+📥 Offline Mode – Download lessons and access them without internet (in development).
+
+🎨 Modern UI / Themes – Beautiful Material Design, dark & light modes, and smooth animations.
+
+🔐 Secure Authentication – Email/password and social logins powered by Firebase Auth.
+
+☁️ Backend Integration – Uses Firebase Firestore & Storage (or custom API) for secure data handling.
+
+🎬 Multimedia Support – Supports video streaming, PDF viewing, and interactive quizzes.
+
+📱 Responsive & Cross-Platform – Built with Flutter, offering a consistent experience on Android and iOS.
 ---
 
 ## 🖼 Screenshots
