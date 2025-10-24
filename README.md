@@ -69,5 +69,20 @@ A dynamic and fully featured **Learning Management App** built with **Flutter & 
 
 ---
 
-## 📂 Project Structure (Example)
-
+## 📂 Project Structure 
+```bash
+E-Coure-App-Flutter/
+├── android/          # Android-specific files
+├── ios/              # iOS-specific files
+├── lib/              # Main Dart source code
+│   ├── main.dart     # Entry point
+│   ├── screens/      # UI screens (e.g., home, login)
+│   ├── widgets/      # Reusable components
+│   ├── models/       # Data models (e.g., Course, User)
+│   ├── services/     # Business logic (e.g., API calls)
+│   └── utils/        # Helpers (e.g., constants, validators)
+├── assets/           # Images, fonts, etc.
+├── test/             # Unit and widget tests
+├── pubspec.yaml      # Dependencies and config
+└── README.md         # This file!
+```
