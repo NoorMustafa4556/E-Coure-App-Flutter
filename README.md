@@ -86,3 +86,35 @@ E-Coure-App-Flutter/
 ├── pubspec.yaml      # Dependencies and config
 └── README.md         # This file!
 ```
+## 🚀 Getting Started
+
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+-   Flutter SDK installed on your machine.
+-   An IDE like Android Studio or VS Code with Flutter plugins.
+
+---
+
+### Installation
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/NoorMustafa4556/E-Coure-App-Flutter.git
+    ```
+2.  **Navigate to the project directory:**
+    ```bash
+    cd E-Coure-App-Flutter
+    ```
+3.  **Install dependencies:**
+    ```bash
+    flutter pub get
+    ```
+4.  **Run the app on an emulator or a physical device:**
+    ```bash
+    flutter run
+    ```
+Select your emulator/simulator or connect a physical device.
+
+---
