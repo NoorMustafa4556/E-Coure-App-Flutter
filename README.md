@@ -6,7 +6,6 @@ A dynamic and fully featured **Learning Management App** built with **Flutter & 
 
 ---
 
-
 ## ✨ Key Features
 
 🎓 Role Based Access – Separate, optimized flows for Students and Instructors.
